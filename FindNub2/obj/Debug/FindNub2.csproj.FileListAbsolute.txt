@@ -1,0 +1,7 @@
+C:\Users\Stannum\source\repos\FindNub2\FindNub2\bin\Debug\FindNub2.exe.config
+C:\Users\Stannum\source\repos\FindNub2\FindNub2\bin\Debug\FindNub2.exe
+C:\Users\Stannum\source\repos\FindNub2\FindNub2\bin\Debug\FindNub2.pdb
+C:\Users\Stannum\source\repos\FindNub2\FindNub2\obj\Debug\FindNub2.csproj.CoreCompileInputs.cache
+C:\Users\Stannum\source\repos\FindNub2\FindNub2\obj\Debug\FindNub2.exe
+C:\Users\Stannum\source\repos\FindNub2\FindNub2\obj\Debug\FindNub2.pdb
+C:\Users\Stannum\source\repos\FindNub2\FindNub2\obj\Debug\FindNub2.csprojAssemblyReference.cache
